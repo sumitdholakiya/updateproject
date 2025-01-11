@@ -1,6 +1,7 @@
 {
   "model": {
-    "updateVersion": "1",
+    "updateVersion": "0",
+     "buttonLink": "com.example.app1",
     "data": [
       {
         "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
