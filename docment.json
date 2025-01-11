@@ -3,27 +3,27 @@
     "updateVersion": "1.0.0",
     "data": [
       {
-        "photoLink": "https://example.com/photo1.jpg",
+        "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
         "name": "App Name 1",
         "appLink": "https://play.google.com/store/apps/details?id=com.example.app1"
       },
       {
-        "photoLink": "https://example.com/photo2.jpg",
+        "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
         "name": "App Name 2",
         "appLink": "https://play.google.com/store/apps/details?id=com.example.app2"
       },
       {
-        "photoLink": "https://example.com/photo3.jpg",
+        "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
         "name": "App Name 3",
         "appLink": "https://play.google.com/store/apps/details?id=com.example.app3"
       },
       {
-        "photoLink": "https://example.com/photo4.jpg",
+        "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
         "name": "App Name 4",
         "appLink": "https://play.google.com/store/apps/details?id=com.example.app4"
       },
       {
-        "photoLink": "https://example.com/photo5.jpg",
+        "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
         "name": "App Name 5",
         "appLink": "https://play.google.com/store/apps/details?id=com.example.app5"
       }
