@@ -1,32 +1,32 @@
 {
   "model": {
     "updateVersion": "1",
-     "buttonLink": "com.example.app1",
+     "buttonLink": "com.tocaboca.tocalifeworld",
     "data": [
       {
         "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
         "name": "App Name 1",
-        "appLink": "https://play.google.com/store/apps/details?id=com.example.app1"
+        "appLink": "com.tocaboca.tocalifeworld"
       },
       {
         "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
         "name": "App Name 2",
-        "appLink": "https://play.google.com/store/apps/details?id=com.example.app2"
+        "appLink": "com.tocaboca.tocalifeworld"
       },
       {
         "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
         "name": "App Name 3",
-        "appLink": "https://play.google.com/store/apps/details?id=com.example.app3"
+        "appLink": "com.tocaboca.tocalifeworld"
       },
       {
         "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
         "name": "App Name 4",
-        "appLink": "https://play.google.com/store/apps/details?id=com.example.app4"
+        "appLink": "com.tocaboca.tocalifeworld"
       },
       {
         "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
         "name": "App Name 5",
-        "appLink": "https://play.google.com/store/apps/details?id=com.example.app5"
+        "appLink": "com.tocaboca.tocalifeworld"
       }
     ]
   }
