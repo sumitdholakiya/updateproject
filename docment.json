@@ -1,12 +1,12 @@
 {
   "model": {
-    "updateVersion": "1",
-     "buttonLink": "com.tocaboca.tocalifeworld",
+    "updateVersion": "0",
+     "buttonLink": "com.owlsup.modaddon.morph",
     "data": [
       {
         "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
         "name": "App Name 1",
-        "appLink": "com.tocaboca.tocalifeworld"
+        "appLink": "com.owlsup.modaddon.morph"
       },
       {
         "photoLink": "https://i.pinimg.com/originals/bb/d8/f1/bbd8f133b60bdb16fbb8640d3ef2e451.png",
